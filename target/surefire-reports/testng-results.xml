@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestForPractise" duration-ms="14842" started-at="2018-07-19T05:56:51Z" finished-at="2018-07-19T05:57:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="14842" started-at="2018-07-19T05:56:51Z" finished-at="2018-07-19T05:57:06Z">
+      <class name="TestForPractise">
+        <test-method status="PASS" signature="VerifyGetListUser()[pri:1, instance:TestForPractise@59a6e353]" name="VerifyGetListUser" duration-ms="1268" started-at="2018-07-19T05:56:51Z" finished-at="2018-07-19T05:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGetListUser -->
+        <test-method status="PASS" signature="VerifySingleUser()[pri:2, instance:TestForPractise@59a6e353]" name="VerifySingleUser" duration-ms="777" started-at="2018-07-19T05:56:52Z" finished-at="2018-07-19T05:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySingleUser -->
+        <test-method status="PASS" signature="VerifySingleUserNotFound()[pri:3, instance:TestForPractise@59a6e353]" name="VerifySingleUserNotFound" duration-ms="771" started-at="2018-07-19T05:56:53Z" finished-at="2018-07-19T05:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySingleUserNotFound -->
+        <test-method status="PASS" signature="VerifyListResource()[pri:4, instance:TestForPractise@59a6e353]" name="VerifyListResource" duration-ms="767" started-at="2018-07-19T05:56:54Z" finished-at="2018-07-19T05:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyListResource -->
+        <test-method status="PASS" signature="SingleResource()[pri:5, instance:TestForPractise@59a6e353]" name="SingleResource" duration-ms="748" started-at="2018-07-19T05:56:55Z" finished-at="2018-07-19T05:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleResource -->
+        <test-method status="PASS" signature="SingleResourceNotFound()[pri:6, instance:TestForPractise@59a6e353]" name="SingleResourceNotFound" duration-ms="756" started-at="2018-07-19T05:56:56Z" finished-at="2018-07-19T05:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleResourceNotFound -->
+        <test-method status="PASS" signature="Create()[pri:7, instance:TestForPractise@59a6e353]" name="Create" duration-ms="775" started-at="2018-07-19T05:56:56Z" finished-at="2018-07-19T05:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+        <test-method status="PASS" signature="VerifyUpdatePUT()[pri:8, instance:TestForPractise@59a6e353]" name="VerifyUpdatePUT" duration-ms="799" started-at="2018-07-19T05:56:57Z" finished-at="2018-07-19T05:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUpdatePUT -->
+        <test-method status="PASS" signature="VerifyUpdatePATCH()[pri:9, instance:TestForPractise@59a6e353]" name="VerifyUpdatePATCH" duration-ms="570" started-at="2018-07-19T05:56:58Z" finished-at="2018-07-19T05:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUpdatePATCH -->
+        <test-method status="PASS" signature="VerifyDelete()[pri:10, instance:TestForPractise@59a6e353]" name="VerifyDelete" duration-ms="769" started-at="2018-07-19T05:56:58Z" finished-at="2018-07-19T05:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDelete -->
+        <test-method status="PASS" signature="RegisterSuccessfull()[pri:11, instance:TestForPractise@59a6e353]" name="RegisterSuccessfull" duration-ms="774" started-at="2018-07-19T05:56:59Z" finished-at="2018-07-19T05:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterSuccessfull -->
+        <test-method status="PASS" signature="Register_UnSuccessfull()[pri:12, instance:TestForPractise@59a6e353]" name="Register_UnSuccessfull" duration-ms="772" started-at="2018-07-19T05:57:00Z" finished-at="2018-07-19T05:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_UnSuccessfull -->
+        <test-method status="PASS" signature="LoginSuccessfull()[pri:13, instance:TestForPractise@59a6e353]" name="LoginSuccessfull" duration-ms="759" started-at="2018-07-19T05:57:01Z" finished-at="2018-07-19T05:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessfull -->
+        <test-method status="PASS" signature="Login_UnSuccessfull()[pri:14, instance:TestForPractise@59a6e353]" name="Login_UnSuccessfull" duration-ms="736" started-at="2018-07-19T05:57:02Z" finished-at="2018-07-19T05:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_UnSuccessfull -->
+        <test-method status="PASS" signature="DelayedResponse()[pri:15, instance:TestForPractise@59a6e353]" name="DelayedResponse" duration-ms="3767" started-at="2018-07-19T05:57:02Z" finished-at="2018-07-19T05:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DelayedResponse -->
+      </class> <!-- TestForPractise -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestForPractise -->
+</testng-results>
